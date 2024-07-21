@@ -38,8 +38,8 @@ Team Member 1:
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Ricardo Rioda Santiago Sanchez
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-KbnHWrZQbZuHvfN
 
 
 ### Project Solution:
