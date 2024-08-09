@@ -31,6 +31,8 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
+## **Quantum beans team**
+
 ### Team Information:
 Team Member 1:
  - Full Name: Jose Antonio Contreras Ortiz
@@ -43,8 +45,7 @@ Team Member 2:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
