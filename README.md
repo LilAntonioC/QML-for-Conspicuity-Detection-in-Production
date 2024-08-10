@@ -47,6 +47,27 @@ Team Member 2:
 ### Project Solution:
 
 
+## **Quantum-Enhanced Transformer vs. Classical Transformer: A Comparative Study**
+
+
+This repository provides a detailed comparative analysis of a classical transformer model and a quantum-enhanced (hybrid) transformer model, emphasizing their performance across various metrics and visualizing their classification results.
+
+The project is organized into several key tasks:
+
+### **Dataset Creation:**
+
+The first two notebooks are dedicated to constructing the dataset that serves as the foundation for our analysis.
+
+### **Model Development:**
+
+The next two notebooks focus on developing and implementing both the classical deep learning algorithm and the quantum-enhanced (hybrid) model.
+
+### **Comparative Analysis:**
+
+The final notebook performs a comparative analysis between the two models, evaluating their performance on the entire 33,000-sample dataset.
+Our findings suggest that both the classical and quantum-enhanced approaches are competitive, achieving strong generalization capabilities and delivering good results across various metrics. The repository includes all steps followed throughout the project, from dataset creation to model evaluation, offering a comprehensive overview of the work.
+
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
+https://drive.google.com/file/d/1m__WyYRLauGC7CAT4z2tzcSwk-xF0NRX/view?usp=sharing
 
